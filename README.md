@@ -1,4 +1,4 @@
-# LILYGO T-Display-S3 ESP32Time Project with SquareLine Studio UI
+# LILYGO T-Display-S3 ESP32Time Clock Project with SquareLine Studio UI
 
 ## Description:
 This code implements a NTP-synchronized ESP32Time Clock with a modern UI created in SquareLine Studio, displaying time, date, and system information on the LilyGO T-Display-S3's built-in screen.
